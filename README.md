@@ -1,0 +1,1 @@
+As a data enthusiast, I explored predicting house prices with machine learning. Trained various models, achieving 82 percent. This personal project sparked ideas for empowering individuals, guiding investments, and even impacting fair housing! Still learning, but excited for the future of data-driven insights!
